@@ -6,7 +6,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
-![alt text](https://github.com/sabasabafaraz789/ecommerce-website-/blob/8382522b726fb385a8a5b58d69c05bdac4a777a6/public/assets/img/Cyberlark%20Solutions%20-%20Google%20Chrome%202023-12-09%2008-28-33.mp4)
+![alt text](https://github.com/sabasabafaraz789/ecommerce-website-/blob/8382522b726fb385a8a5b58d69c05bdac4a777a6/public/assets/img/Cyberlark%20Solutions%20-%20Google%20Chrome%202023-12-09%2008-28-33.mp4?raw=true)
 # Admin Login page
 
 ![alt text](https://github.com/AjayYadavAi/laravel-starter/blob/main/admin-login.png?raw=true)
@@ -14,6 +14,7 @@
 # Admin Dashboard page
 
 ![alt text](https://github.com/AjayYadavAi/laravel-starter/blob/main/admin-dashboard.png?raw=true)
+
 
 
 
